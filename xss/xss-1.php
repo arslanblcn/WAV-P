@@ -19,7 +19,7 @@ p, h3 {
 </style>
 <body>
 	<h3>Who is this guy?</h3>
-	<p>If you know him enter his name and than I'll give you hint.</p>
+	<p>If you know him enter his name and then I'll give you hint.</p>
 	<div class="center">
 		<img src="giphy.gif">
 	</div>
